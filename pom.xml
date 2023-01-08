@@ -96,13 +96,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://18.237.198.8/repository/releaserepo/</url> 
+	      <url>http://18.216.234.64/repository/releaserepo/</url> 
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://18.237.198.8/repository/snapshotrepo/</url>
+	      <url>http://18.216.234.64/repository/snapshotrepo/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
